@@ -44,7 +44,7 @@ public class MyController {
 //		
 //		return "";
 //		}
-  
+  //hhiy
   public String handleForm(@ModelAttribute User user, Model model) {
 
 		System.out.println(user);
